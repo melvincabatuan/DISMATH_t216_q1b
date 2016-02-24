@@ -1,6 +1,6 @@
 # DISMATH_t216_q1b
 
-## Sample Solutions:
+## Sample Solutions (by Rainiell Bacani):
 
 ![scan](scan0006.jpg)
 
